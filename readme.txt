@@ -2,6 +2,8 @@ Phishing Website Detection with Machine Learning.
 This project evaluates multiple machine learning models for phishing website detection using the UCI Phishing Websites dataset.
 The models are compared using ROC curves and classification accuracy, and feature importance is analyzed using a Random Forest classifier.
 
+Authors: Artur Sopov & Sam Pagon
+
 Dataset:
 Source: UCI Machine Learning Repository
 Dataset: Phishing Websites (ID: 327)
